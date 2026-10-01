@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://autointeriorhelp.com/sitemap.xml
